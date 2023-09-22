@@ -1,0 +1,22 @@
+html {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30%;
+}
+
+/*---------------------------------
+        CONTACT STYLES
+---------------------------------*/
+.rsvp input[type="text"] {
+    font-size: 15px;
+    outline: none;
+    font-weight: 600;
+    color: #8D8E8F;
+    width: 60%;
+    border-top: 3px solid #090B0D;
+    border-right: 4px solid #424549;
+    border-bottom: 4px solid #424549;
+    border-left: 3px solid #090B0D;
+    margin: 20px 2em;
+    border-radius: 10px;
+}
+
