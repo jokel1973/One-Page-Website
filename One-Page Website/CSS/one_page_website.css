@@ -6,7 +6,7 @@ html {
 /*---------------------------------
         CONTACT STYLES
 ---------------------------------*/
-.rsvp input[type="text"] {
+.rsvp {
     font-size: 15px;
     outline: none;
     font-weight: 600;
